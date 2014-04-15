@@ -1,4 +1,4 @@
-In this document I would like to collect some references that I have found useful while learning about different topics in high-energy theory.
+In this document I would like to collect some references that I have found useful while learning about different topics in high-energy theory. For more references on a given topic, just look at the references in the items given.
 
 #Quantum Field Theory
 
@@ -48,6 +48,23 @@ Conformal symmetry is relevant to many areas in physics. Some general references
 
 1. [Conformal Field Theory and Statistical Mechanics](http://arxiv.org/abs/0807.3472)
 1. *Conformal Field Theory* by P. Di Francesco, P. Mathieu and D. Sénéchal.
+
+Twistor methods are useful to describe the kinematics of massless particles. They are used to calculate scattering amplitudes in more efficient ways. The so-called amplituhedron program, and the earlier grassmannian program, use twistor variables. Some general references are:
+
+1. [Calculating Scattering Amplitudes Efficiently](http://arxiv.org/abs/hep-ph/9601359)
+1. [Multi-Parton Amplitudes in Gauge Theories](http://arxiv.org/abs/hep-th/0509223)
+
+A good way to start with this topic is to learn a bit about the twistor string program:
+
+1. [Lectures on Twistor Strings and Perturbative Yang-Mills Theory](http://arxiv.org/abs/hep-th/0504194)
+1. [Perturbative Gauge Theory As A String Theory In Twistor Space](http://arxiv.org/abs/hep-th/0312171)
+1. [On the Tree-Level S-Matrix of Yang-Mills Theory](http://arxiv.org/abs/hep-th/0403190)
+
+Twistors were originally developed by Penrose. Like pure gauge theory, one can study twistors in a very mathematical way. Some references are:
+
+1. [Twistor theory: An approach to the quantisation of fields and space-time](http://dx.doi.org/10.1016/0370-1573(73)90008-2)
+1. *Twistor Geometry and Field Theory* by R.S. Ward and R.O. Wells Jr
+1. *Spinors and Space-Time* by R. Penrose and W. Rindler
 
 #Supersymmetry and Supergravity
 
