@@ -2,7 +2,17 @@ In this document I would like to collect some references that I have found usefu
 
 #Quantum Field Theory
 
-Some of the textbooks that I have used are:
+Matt Strassler has a great [blog](http://profmattstrassler.com/). Three blog posts on the topic of particles and fields are:
+
+1. [Fields](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/fields/)
+1. [Particles Are Quanta](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/7-particles-are-quanta/)
+1. [How Particles and Fields Interact (an introduction)](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/8-how-particles-and-fields-interact/)
+
+He also has a nice series of blog posts about the Higgs mechanism:
+
+1. [How the Higgs Field Works (with math)](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/how-the-higgs-field-works-with-math/)
+
+Some of the textbooks on QFT that I have used are:
 
 1. *Introduction to Quantum Field Theory* by G. Sterman: Well-balanced, but dated. Some calculations in QCD.
 1. *Quantum Field Theory in a Nutshell* by A. Zee: Very informal, but a broad overview of the topic.
@@ -33,7 +43,7 @@ Any good book on QFT should discuss Yang-Mills theory and the Standard Model. He
 1. *Gauge Theories of the Strong, Weak, and Electromagnetic Interactions* by C. Quigg.
 1. *Modern Particle Physics* by M. Thomson.
 
-Some of these books might require revisions in the coming year. Physicist are still playing with the bubble wrap that came with the newly-discovered Higgs-like particle at the LHC. We live in exciting times!
+Some of these books might require revisions in the coming years. Physicist are still playing with the bubble wrap that came with the newly-discovered Higgs-like particle at the LHC. We live in exciting times!
 
 Pure gauge theory can also be studied in a very mathematical way. Some references are:
 
