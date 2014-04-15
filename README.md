@@ -1,4 +1,4 @@
-In this document I would like to collect some references that I have found useful while learning high-energy theory.
+In this document I would like to collect some references that I have found useful while learning about different topics in high-energy theory.
 
 #Quantum Field Theory
 
@@ -9,7 +9,7 @@ Some of the textbooks that I have used are:
 1. *An Introduction to Quantum Field Theory* by M.E. Peskin and D.V. Schroeder: One of the classics, a bit dated.
 1. *Quantum Field Theory* by L.H. Ryder: Short but sweet.
 1. *Quantum Field Theory* by M. Srednicki: An instant classic, many modern topics like spinor-helicity methods.
-1. [*Fields* by W. Siegel](http://insti.physics.sunysb.edu/~siegel/errata.html): This book has a little bit of everything. Very dense, but very rewarding. Many exercises. A must-read for anyone who wants to be a high-energy theoretical physicist in the 21st century.
+1. [*Fields* by W. Siegel](http://insti.physics.sunysb.edu/~siegel/errata.html): This book has a little bit of everything. Very dense, but very rewarding. Many exercises. A **must-read** for anyone who wants to be a high-energy theoretical physicist in the 21st century.
 
 Note that Srednicki's book is available for **free** through his [website](http://web.physics.ucsb.edu/~mark/qft.html). Other books on related topics in quantum field theory include:
 
@@ -33,7 +33,7 @@ Any good book on QFT should discuss Yang-Mills theory and the Standard Model. He
 1. *Gauge Theories of the Strong, Weak, and Electromagnetic Interactions* by C. Quigg.
 1. *Modern Particle Physics* by M. Thomson.
 
-Physicist are still playing with the bubble wrap that came with the newly-discovered Higgs-like particle at the LHC. We live in exciting times!
+Some of these books might require revisions in the coming year. Physicist are still playing with the bubble wrap that came with the newly-discovered Higgs-like particle at the LHC. We live in exciting times!
 
 Pure gauge theory can also be studied in a very mathematical way. Some references are:
 
@@ -68,7 +68,7 @@ Other formal references, in the form of lecture notes from the [arXiv](http://ar
 1. [Lectures on Supersymmetry Breaking](http://arxiv.org/abs/hep-ph/0702069)
 1. [Introduction to Supersymmetry](http://arxiv.org/abs/hep-th/0101055)
 1. [Introduction to Supersymmetry](http://arxiv.org/abs/hep-th/9612114)
-1. [Introduction to S-Duality in $N=2$ Supersymmetric Gauge Theory. (A pedagogical review of the work of Seiberg and Witten)](http://arxiv.org/abs/hep-th/9701069)
+1. [Introduction to S-Duality in N = 2 Supersymmetric Gauge Theory. (A pedagogical review of the work of Seiberg and Witten)](http://arxiv.org/abs/hep-th/9701069)
 1. [Duality in Quantum Field Theory (and String Theory)](http://arxiv.org/abs/hep-th/9709180)
 1. [Lectures on supersymmetric gauge theories and electric-magnetic duality](http://arxiv.org/abs/hep-th/9509066)
 1. [Introduction to supergravity](http://arxiv.org/abs/1112.3502)
@@ -85,16 +85,16 @@ For a brave attempt at relating string theory to the real world, see
 References on string theory include:
 
 1. *A First Course in String Theory* by B. Zwiebach
-1. *String Theory* by J. Polchinski: Both volumes are mandatory for any aspiring string theorist.
+1. *String Theory* by J. Polchinski: Both volumes are **mandatory** for any aspiring string theorist.
 1. *String Theory and M-Theory: A Modern Introduction* by K. Becker, M. Becker and J.H. Schwarz: More recent than Polchinski, more geometry-oriented.
 1. *Superstring Theory* by M.B. Green, J.H. Schwarz and E. Witten: Classic and still somewhat relevant.
 1. [Lectures on String Theory](http://arxiv.org/abs/0908.0333)
 
-Some references on the Anti de-Sitter/Conformal Field Theory correspondence, from the arXiv, are:
+Some references on the Anti de-Sitter/Conformal Field Theory correspondence, from the [arXiv](http://arxiv.org), are:
 
-1. [The Large $N$ Limit of Superconformal Field Theories and Supergravity](http://arxiv.org/abs/hep-th/9711200)
-1. [Large $N$ Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111)
-1. [Large $N$ gauge theories and AdS/CFT correspondence](http://arxiv.org/abs/hep-th/9908148)
+1. [The Large-N Limit of Superconformal Field Theories and Supergravity](http://arxiv.org/abs/hep-th/9711200)
+1. [Large-N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111)
+1. [Large-N gauge theories and AdS/CFT correspondence](http://arxiv.org/abs/hep-th/9908148)
 1. [TASI 2003 Lectures on AdS/CFT](http://arxiv.org/abs/hep-th/0309246)
 1. [Holographic duality with a view toward many-body physics](http://arxiv.org/abs/0909.0518)
 1. [Introduction to Gauge/Gravity Duality](http://arxiv.org/abs/1010.6134)
