@@ -2,7 +2,7 @@ In this document I would like to collect some references that I have found usefu
 
 #Quantum Field Theory
 
-Matt Strassler has a great [blog](http://profmattstrassler.com/). Three blog posts on the topic of particles and fields are:
+Matt Strassler has a great [blog](http://profmattstrassler.com/). Three (very basic) blog posts on the topic of particles and fields are:
 
 1. [Fields](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/fields/)
 1. [Particles Are Quanta](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/7-particles-are-quanta/)
@@ -27,8 +27,8 @@ Note that Srednicki's book is available for **free** through his [website](http:
 1. *Functional Integration* by P. Cartier and C. DeWitt-Morette: If you really want to learn some functional analysis.
 1. *Quantization of Gauge Systems* by M. Henneaux and C. Teitelboim: Further details on BRST, fermions and antifields.
 1. *Aspects of Symmetry* by S. Coleman: A collection of lectures on diverse topics. Somewhat dated.
-1. *The Analytic S-Matrix* by R.J. Eden, P.V. Landshoff, D.I. Olive and J.C. Polkinghorne: Scattering
-1. *An Introduction to Regge Theory and High Energy Physics* by P.D.B. Collins: Scattering and Regge Theory
+1. *The Analytic S-Matrix* by R.J. Eden, P.V. Landshoff, D.I. Olive and J.C. Polkinghorne: Scattering.
+1. *An Introduction to Regge Theory and High Energy Physics* by P.D.B. Collins: Scattering and Regge Theory.
 
 In the coming years a book by P. van Nieuwenhuizen will appear on advanced topics. I am sure it will be great.
 
@@ -36,7 +36,7 @@ In the coming years a book by P. van Nieuwenhuizen will appear on advanced topic
 
 Any good book on QFT should discuss Yang-Mills theory and the Standard Model. Here are some physics references, most of which I have never used, since they are very recent:
 
-1. *Classical Solutions in Quantum Field Theory: Solitons and Instantons in High Energy Physics* by E.J. Weinberg
+1. *Classical Solutions in Quantum Field Theory: Solitons and Instantons in High Energy Physics* by E.J. Weinberg.
 1. *Introduction to Elementary Particles* by D. Griffiths.
 1. *Quantum Field Theory and the Standard Model* by M.D. Schwartz.
 1. *The Standard Model and Beyond* by P. Langacker.
@@ -73,22 +73,22 @@ A good way to start with this topic is to learn a bit about the twistor string p
 Twistors were originally developed by Penrose. Like pure gauge theory, one can study twistors in a very mathematical way. Some references are:
 
 1. [Twistor theory: An approach to the quantisation of fields and space-time](http://dx.doi.org/10.1016/0370-1573(73)90008-2)
-1. *Twistor Geometry and Field Theory* by R.S. Ward and R.O. Wells Jr
-1. *Spinors and Space-Time* by R. Penrose and W. Rindler
+1. *Twistor Geometry and Field Theory* by R.S. Ward and R.O. Wells Jr.
+1. *Spinors and Space-Time* by R. Penrose and W. Rindler.
 
 #Supersymmetry and Supergravity
 
 There are two kinds of references on supersymmetry (SUSY) and supergravity (SUGRA): formal and applied. Some applied references are:
 
-1. *Supersymmetry and String Theory: Beyond the Standard Model* by M. Dine
-1. *Supersymmetry in Particle Physics: An Elementary Introduction* by I. Aitchison
+1. *Supersymmetry and String Theory: Beyond the Standard Model* by M. Dine.
+1. *Supersymmetry in Particle Physics: An Elementary Introduction* by I. Aitchison.
 
 Some formal references, in the form of textbooks, are:
 
-1. *Modern Supersymmetry: Dynamics and Duality* by J. Terning
-1. *Supersymmetry and Supergravity* by J. Bagger and J. Wess
-1. *Supergravity* by D.Z. Freedman and A. Van Proeyen
-1. [*Superspace, or One thousand and one lessons in supersymmetry* by S.J. Gates Jr, M.T. Grisaru, M. Rocek and W. Siegel](http://arxiv.org/abs/hep-th/0108200)
+1. *Modern Supersymmetry: Dynamics and Duality* by J. Terning.
+1. *Supersymmetry and Supergravity* by J. Bagger and J. Wess.
+1. *Supergravity* by D.Z. Freedman and A. Van Proeyen.
+1. [*Superspace, or One thousand and one lessons in supersymmetry* by S.J. Gates Jr, M.T. Grisaru, M. Rocek and W. Siegel.](http://arxiv.org/abs/hep-th/0108200)
 
 Other formal references, in the form of lecture notes from the [arXiv](http://arxiv.org), are:
 
@@ -111,7 +111,7 @@ For a brave attempt at relating string theory to the real world, see
 
 References on string theory include:
 
-1. *A First Course in String Theory* by B. Zwiebach
+1. *A First Course in String Theory* by B. Zwiebach.
 1. *String Theory* by J. Polchinski: Both volumes are **mandatory** for any aspiring string theorist.
 1. *String Theory and M-Theory: A Modern Introduction* by K. Becker, M. Becker and J.H. Schwarz: More recent than Polchinski, more geometry-oriented.
 1. *Superstring Theory* by M.B. Green, J.H. Schwarz and E. Witten: Classic and still somewhat relevant.
