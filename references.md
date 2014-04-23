@@ -1,10 +1,10 @@
 #Contents
 
-1. [Quantum Field Theory](https://github.com/meirizarrygelpi/hep-th-references/blob/master/README.md#quantum-field-theory)
-1. [Yang-Mills Theory and the Standard Model](https://github.com/meirizarrygelpi/hep-th-references/blob/master/README.md#yang-mills-theory-and-the-standard-model)
-1. [Twistors and Conformal Symmetry](https://github.com/meirizarrygelpi/hep-th-references/blob/master/README.md#twistors-and-conformal-symmetry)
-1. [Supersymmetry and Supergravity](https://github.com/meirizarrygelpi/hep-th-references/blob/master/README.md#supersymmetry-and-supergravity)
-1. [String Theory and AdS/CFT](https://github.com/meirizarrygelpi/hep-th-references/blob/master/README.md#string-theory-and-adscft)
+1. [Quantum Field Theory](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#quantum-field-theory)
+1. [Yang-Mills Theory and the Standard Model](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#yang-mills-theory-and-the-standard-model)
+1. [Twistors and Conformal Symmetry](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#twistors-and-conformal-symmetry)
+1. [Supersymmetry and Supergravity](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#supersymmetry-and-supergravity)
+1. [String Theory and AdS/CFT](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#string-theory-and-adscft)
 
 #Quantum Field Theory
 
