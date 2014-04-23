@@ -5,7 +5,6 @@
 * [Twistors and Conformal Symmetry](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#twistors-and-conformal-symmetry)
 * [Supersymmetry and Supergravity](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#supersymmetry-and-supergravity)
 * [String Theory and AdS/CFT](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#string-theory-and-adscft)
-
 # Quantum Field Theory
 
 Matt Strassler has a great [blog](http://profmattstrassler.com/). Three (very basic) blog posts on the topic of particles and fields are:
