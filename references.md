@@ -1,22 +1,22 @@
-#Contents
+# Contents
 
-1. [Quantum Field Theory](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#quantum-field-theory)
-1. [Yang-Mills Theory and the Standard Model](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#yang-mills-theory-and-the-standard-model)
-1. [Twistors and Conformal Symmetry](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#twistors-and-conformal-symmetry)
-1. [Supersymmetry and Supergravity](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#supersymmetry-and-supergravity)
-1. [String Theory and AdS/CFT](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#string-theory-and-adscft)
+* [Quantum Field Theory](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#quantum-field-theory)
+* [Yang-Mills Theory and the Standard Model](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#yang-mills-theory-and-the-standard-model)
+* [Twistors and Conformal Symmetry](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#twistors-and-conformal-symmetry)
+* [Supersymmetry and Supergravity](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#supersymmetry-and-supergravity)
+* [String Theory and AdS/CFT](https://github.com/meirizarrygelpi/hep-th-references/blob/master/references.md#string-theory-and-adscft)
 
-#Quantum Field Theory
+# Quantum Field Theory
 
 Matt Strassler has a great [blog](http://profmattstrassler.com/). Three (very basic) blog posts on the topic of particles and fields are:
 
-1. [Fields](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/fields/)
-1. [Particles Are Quanta](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/7-particles-are-quanta/)
-1. [How Particles and Fields Interact (an introduction)](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/8-how-particles-and-fields-interact/)
+* [Fields](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/fields/)
+* [Particles Are Quanta](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/7-particles-are-quanta/)
+* [How Particles and Fields Interact (an introduction)](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/fields-and-their-particles-with-math/8-how-particles-and-fields-interact/)
 
 He also has a nice series of blog posts about the Higgs mechanism:
 
-1. [How the Higgs Field Works (with math)](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/how-the-higgs-field-works-with-math/)
+* [How the Higgs Field Works (with math)](http://profmattstrassler.com/articles-and-posts/particle-physics-basics/how-the-higgs-field-works-with-math/)
 
 Some of the textbooks on QFT that I have used are:
 
