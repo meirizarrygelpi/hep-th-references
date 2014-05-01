@@ -91,6 +91,7 @@ There are two kinds of references on supersymmetry (SUSY) and supergravity (SUGR
 
 Some formal references, in the form of textbooks, are:
 
+* *Introduction to Supersymmetry and Supergravity* by P. West.
 * *Modern Supersymmetry: Dynamics and Duality* by J. Terning.
 * *Supersymmetry and Supergravity* by J. Bagger and J. Wess.
 * *Supergravity* by D.Z. Freedman and A. Van Proeyen.
