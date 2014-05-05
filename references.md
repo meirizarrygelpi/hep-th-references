@@ -21,11 +21,11 @@ He also has a nice series of blog posts about the Higgs mechanism:
 Some of the textbooks on QFT that I have used are:
 
 * *Introduction to Quantum Field Theory* by G. Sterman: Well-balanced, but dated. Some calculations in QCD.
-* *Quantum Field Theory in a Nutshell* by A. Zee: Very informal, but a broad overview of the topic.
+* *Quantum Field Theory in a Nutshell* by A. Zee: Very informal, but a broad overview of the topic (**Recommended**).
 * *An Introduction to Quantum Field Theory* by M.E. Peskin and D.V. Schroeder: One of the classics, a bit dated.
 * *Quantum Field Theory* by L.H. Ryder: Short but sweet.
-* *Quantum Field Theory* by M. Srednicki: An instant classic, many modern topics like spinor-helicity methods.
-* [*Fields* by W. Siegel](http://insti.physics.sunysb.edu/~siegel/errata.html): This book has a little bit of everything. Very dense, but very rewarding. Many exercises. A **must-read** for anyone who wants to be a high-energy theoretical physicist in the 21st century.
+* *Quantum Field Theory* by M. Srednicki: An instant classic, many modern topics like spinor-helicity methods (**Recommended**).
+* [*Fields* by W. Siegel](http://insti.physics.sunysb.edu/~siegel/errata.html): This book has a little bit of everything. Very dense, but very rewarding. Many exercises. A **must-read** for anyone who wants to be a high-energy theoretical physicist in the 21st century (**Recommended**).
 
 Note that Srednicki's book is available for **free** through his [website](http://web.physics.ucsb.edu/~mark/qft.html). Other books on related topics in quantum field theory include:
 
@@ -54,7 +54,7 @@ Some of these books might require revisions in the coming years. Physicist are s
 Pure gauge theory can also be studied in a very mathematical way. Some references are:
 
 * *The Geometry of Physics* by T. Frankel.
-* *Geometry, Topology and Physics* by M. Nakahara.
+* *Geometry, Topology and Physics* by M. Nakahara (**Recommended**).
 
 I myself have forgotten what a fiber bundle is...
 
@@ -92,9 +92,9 @@ There are two kinds of references on supersymmetry (SUSY) and supergravity (SUGR
 Some formal references, in the form of textbooks, are:
 
 * *Introduction to Supersymmetry and Supergravity* by P. West.
-* *Modern Supersymmetry: Dynamics and Duality* by J. Terning.
+* *Modern Supersymmetry: Dynamics and Duality* by J. Terning (**Recommended**).
 * *Supersymmetry and Supergravity* by J. Bagger and J. Wess.
-* *Supergravity* by D.Z. Freedman and A. Van Proeyen.
+* *Supergravity* by D.Z. Freedman and A. Van Proeyen (**Recommended**).
 * [*Superspace, or One thousand and one lessons in supersymmetry* by S.J. Gates Jr, M.T. Grisaru, M. Rocek and W. Siegel.](http://arxiv.org/abs/hep-th/0108200)
 
 Other formal references, in the form of lecture notes from the [arXiv](http://arxiv.org), are:
@@ -118,16 +118,16 @@ For a brave attempt at relating string theory to the real world, see
 
 References on string theory include:
 
-* *A First Course in String Theory* by B. Zwiebach.
-* *String Theory* by J. Polchinski: Both volumes are **mandatory** for any aspiring string theorist.
+* *A First Course in String Theory* by B. Zwiebach (**Recommended**).
+* *String Theory* by J. Polchinski: Both volumes are **mandatory** for any aspiring string theorist (**Recommended**).
 * *String Theory and M-Theory: A Modern Introduction* by K. Becker, M. Becker and J.H. Schwarz: More recent than Polchinski, more geometry-oriented.
 * *Superstring Theory* by M.B. Green, J.H. Schwarz and E. Witten: Classic and still somewhat relevant.
 * [Lectures on String Theory](http://arxiv.org/abs/0908.0333)
 
 Some references on the Anti de-Sitter/Conformal Field Theory correspondence, from the [arXiv](http://arxiv.org), are:
 
-* [The Large-N Limit of Superconformal Field Theories and Supergravity](http://arxiv.org/abs/hep-th/9711200)
-* [Large-N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111)
+* [The Large-N Limit of Superconformal Field Theories and Supergravity](http://arxiv.org/abs/hep-th/9711200) (**Recommended**)
+* [Large-N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111) (**Recommended**)
 * [Large-N gauge theories and AdS/CFT correspondence](http://arxiv.org/abs/hep-th/9908148)
 * [TASI 2003 Lectures on AdS/CFT](http://arxiv.org/abs/hep-th/0309246)
 * [Holographic duality with a view toward many-body physics](http://arxiv.org/abs/0909.0518)
