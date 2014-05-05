@@ -84,12 +84,21 @@ Twistors were originally developed by Penrose. Like pure gauge theory, one can s
 
 # Supersymmetry and Supergravity
 
-There are two kinds of references on supersymmetry (SUSY) and supergravity (SUGRA): formal and applied. Some applied references are:
+Before learning about supergravity (and string theory), it is a good idea to understand classical gravity. A good reference for learning general relativity is:
+
+* *Spacetime and Geometry: An Introduction to General Relativity* by S. Carroll (**Recommended**).
+
+In order to study fermions and gravity, one needs to use the vielbein formalism instead of the spacetime metric tensor formalism. Sadly, vielbeins are only mentioned by Carroll in an appendix. See Siegel for a more complete discussion. Other useful but non-conventional references for gravity are:
+
+* *Feynman Lectures on Gravitation* by R.P. Feynman et al.
+* *Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity* by S. Weinberg.
+
+There are two kinds of references on supersymmetry (SUSY) and supergravity (SUGRA): formal and applied. Some applied supersymmetry references are:
 
 * *Supersymmetry and String Theory: Beyond the Standard Model* by M. Dine.
 * *Supersymmetry in Particle Physics: An Elementary Introduction* by I. Aitchison.
 
-Some formal references, in the form of textbooks, are:
+Some formal supersymmetry references, in the form of textbooks, are:
 
 * *Introduction to Supersymmetry and Supergravity* by P. West.
 * *Modern Supersymmetry: Dynamics and Duality* by J. Terning (**Recommended**).
@@ -123,6 +132,7 @@ References on string theory include:
 * *String Theory and M-Theory: A Modern Introduction* by K. Becker, M. Becker and J.H. Schwarz: More recent than Polchinski, more geometry-oriented.
 * *Superstring Theory* by M.B. Green, J.H. Schwarz and E. Witten: Classic and still somewhat relevant.
 * [Lectures on String Theory](http://arxiv.org/abs/0908.0333)
+* *Gravity and Strings* by T. Ortín (**Recommended**).
 
 Some references on the Anti de-Sitter/Conformal Field Theory correspondence, from the [arXiv](http://arxiv.org), are:
 
