@@ -131,8 +131,9 @@ References on string theory include:
 * *String Theory* by J. Polchinski: Both volumes are **mandatory** for any aspiring string theorist (**Recommended**).
 * *String Theory and M-Theory: A Modern Introduction* by K. Becker, M. Becker and J.H. Schwarz: More recent than Polchinski, more geometry-oriented.
 * *Superstring Theory* by M.B. Green, J.H. Schwarz and E. Witten: Classic and still somewhat relevant.
-* [Lectures on String Theory](http://arxiv.org/abs/0908.0333)
+* [Lectures on String Theory](http://arxiv.org/abs/0908.0333) (**Recommended**)
 * *Gravity and Strings* by T. Ortín (**Recommended**).
+* *D-Branes* by C.V. Johnson.
 
 Some references on the Anti de-Sitter/Conformal Field Theory correspondence, from the [arXiv](http://arxiv.org), are:
 
